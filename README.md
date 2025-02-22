@@ -28,10 +28,7 @@ Hi there! 👋 I'm a **Full Stack Developer** with **4.8+ years** of experience 
 ## 🛠️ Tech Stack  
 
 ### **Frontend**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Inertia.js](https://img.shields.io/badge/Inertia.js-8B5CF6?style=for-the-badge&logo=inertia&logoColor=white)  
+[![My Skills](https://skillicons.dev/icons?i=vue,react,next,figma&theme=light)](https://skillicons.dev)
 
 ### **Backend**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
