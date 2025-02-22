@@ -18,6 +18,6 @@ Welcome to my GitHub profile! I’m a seasoned full-stack engineer with a proven
 
 
 ## Contact Information  
-- **Email**: mudsr3@gmail.com]  
-- **LinkedIn**: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mudsr-ali/)]  
+- **Email**: mudsr3@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/mudsr-ali  
 
