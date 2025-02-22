@@ -1,5 +1,5 @@
 # Mudassar ali  
-##Senior Full-Stack Engineer | 5+ Years of Experience ##  
+**Senior Full-Stack Engineer | 5+ Years of Experience** 
 
 Welcome to my GitHub profile! I’m a seasoned full-stack engineer with a proven track record of designing and deploying scalable web solutions across diverse domains, including Fintech, SaaS, E-commerce, EdTech, Real Estate Tech, IoT, and ERP. I specialize in leveraging modern technologies and cloud infrastructure to deliver impactful platforms that enhance efficiency and drive revenue growth.
 
