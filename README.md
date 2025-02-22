@@ -23,28 +23,13 @@ Welcome to my GitHub profile! I’m a seasoned full-stack engineer with a proven
 
 # 💻 About Me  
 
-Hi there! 👋 I'm a **Full Stack Developer** with **4.8+ years** of experience in web and app development.  
+Hi there! 👋 I'm a **Full Stack Developer** with **5+ years** of experience in web and app development.  
 
 ## 🛠️ Tech Stack  
 
-### **Frontend**  
-[![My Skills](https://skillicons.dev/icons?i=vue,react,next,figma&theme=light)](https://skillicons.dev)
-
-### **Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-
-### **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Marten DB](https://img.shields.io/badge/Marten_DB-005F80?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+[![My Frontend Skills](https://skillicons.dev/icons?i=vue,react,next,nuxt,tailwind,figma&theme=light)](https://skillicons.dev)
+[![My Backend Skills](https://skillicons.dev/icons?i=laravel,.net,nodejs,nestjs,aws,cloud,digitalocean,gcp&theme=light)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongo,nestjs&theme=light)](https://skillicons.dev)
 
 ---
 
