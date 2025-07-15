@@ -33,16 +33,15 @@ A video hosting platform for 5,000+ users. Optimized performance, integrated pay
 
 ---
 
-### 📰 CoolerAds (Multi-Tenant AdTech)  
-**Tech:** Laravel, Vue.js, Livewire, MySQL  
-A white-label, multi-tenant advertising system for U.S. newspapers. Handled ad processing, API integrations, and scheduling.  
-🔗 [Demo](https://mypaperonline.coolerads.com)
-
----
-
 ### 📡 Gem Monitor (IoT Monitoring)  
 **Tech:** .NET Core, Vue.js, PostgreSQL, AWS  
 Telemetry data ingestion and real-time IoT monitoring with alerts and reporting pipelines.
+
+---
+
+## 📊 Sapphire Portal (Reporting Dashboard)  
+**Tech Stack:** Symfony 3, Vue.js, PostgreSQL, AWS (ECS, RDS, S3), Docker  
+Custom reporting dashboard for operational data with complex filters and CRUD actions. Improved performance and expanded feature set.
 
 ---
 
@@ -52,15 +51,16 @@ GCP-native solution for syncing SIM data from Proximus with dashboards and repor
 
 ---
 
-### 💳 Tattoo Admin (Booking + Payments)  
-**Tech:** Nest.js, Next.js, PostgreSQL, Stripe  
-SaaS platform for tattoo artist scheduling and payments. Built secure real-time booking logic.
-
----
-
 ### 🏗️ Sarens ERP (Enterprise ERP)  
 **Tech:** .NET Core 8, Nuxt.js, PostgreSQL, Azure  
 Enterprise resource modules for internal logistics, finance, and workforce operations.
+
+---
+
+## 🎵 Mubazar (SaaS, Music Tech)  
+**Tech Stack:** Laravel, Next.js, Node.js, Socket.IO, AWS  
+A community platform for musicians to share opportunities. Implemented forums, analytics, and real-time chat to support over 1,000 musicians.  
+🔗 [Live Platform (invite-only)](https://www.mubazar.com)
 
 ---
 
@@ -70,21 +70,37 @@ Semi-CMS built for managing content, artist portfolios, and booking workflows fo
 
 ---
 
+### 📰 CoolerAds (Multi-Tenant AdTech)  
+**Tech:** Laravel, Vue.js, Livewire, MySQL  
+A white-label, multi-tenant advertising system for U.S. newspapers. Handled ad processing, API integrations, and scheduling.  
+🔗 [Demo](https://mypaperonline.coolerads.com)
+
+---
+
 ### 🏘️ ZibaProperty (Real Estate Media)  
 **Tech:** Laravel  
 Image watermarking and media management for a real estate platform.
+🔗 [Live Site](https://ziba-property.com/)
 
 ---
 
 ### 📊 Portfolio Manager (Finance Tool)  
 **Tech:** Laravel, Livewire, MySQL  
 Track real estate investments, calculate ROI, and manage assets in one dashboard.
+🔗 [Code](https://github.com/Mudsr/portfolio-system)
+
+---
+
+### 💳 Tattoo Admin (Booking + Payments)  
+**Tech:** Nest.js, Next.js, PostgreSQL, Stripe  
+SaaS platform for tattoo artist scheduling and payments. Built secure real-time booking logic.
 
 ---
 
 ### 🏫 RealEstate School NJ  
 **Tech:** Laravel, Square API  
 Built an online course booking system with secure payments and scheduling.
+🔗 [Live Site](njrealestateschoolonline.com)
 
 ---
 
