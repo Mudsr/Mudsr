@@ -39,7 +39,7 @@ Telemetry data ingestion and real-time IoT monitoring with alerts and reporting 
 
 ---
 
-## 📊 Sapphire Portal (Reporting Dashboard)  
+### 📊 Sapphire Portal (Reporting Dashboard)  
 **Tech Stack:** Symfony 3, Vue.js, PostgreSQL, AWS (ECS, RDS, S3), Docker  
 Custom reporting dashboard for operational data with complex filters and CRUD actions. Improved performance and expanded feature set.
 
@@ -57,7 +57,7 @@ Enterprise resource modules for internal logistics, finance, and workforce opera
 
 ---
 
-## 🎵 Mubazar (SaaS, Music Tech)  
+### 🎵 Mubazar (SaaS, Music Tech)  
 **Tech Stack:** Laravel, Next.js, Node.js, Socket.IO, AWS  
 A community platform for musicians to share opportunities. Implemented forums, analytics, and real-time chat to support over 1,000 musicians.  
 🔗 [Live Platform (invite-only)](https://www.mubazar.com)
@@ -104,7 +104,7 @@ Built an online course booking system with secure payments and scheduling.
 
 ---
 
-> 💡 *Want to see code? Ask for private repo access or code samples.*
+> 💡 *Want to see code? Ping me to see code samples.*
 ---
 
 ## 🔗 Connect with Me  
