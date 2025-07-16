@@ -21,9 +21,9 @@ Hi there! 👋 I'm a **Full Stack Engineer** with **5+ years** of experience in 
 
 ### 🎞️ Scivenia (EdTech SaaS Platform)
 
-**Tech Stack:** Laravel, Next.js, Node.js, GraphQL, Socket.IO, AWS, MySQL, Docker
+**Tech Stack:** Laravel, Next.js, Node.js, GraphQL, Socket.IO, AWS, MySQL, Docker 
 **Description:**
-A SaaS platform for managing scientific events, workshops, and webinars. Enables tech communities to run large-scale interactive events with registration flows, payment integrations, and live engagement features.
+A SaaS platform for managing scientific events, workshops, and webinars. Enables tech communities to run large-scale interactive events with registration flows, payment integrations, and live engagement features. 
 **My Contributions:**
 * Working as Lead Engineer for the product
 * Architected new features and modules
