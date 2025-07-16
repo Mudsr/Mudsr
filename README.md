@@ -22,9 +22,12 @@ Hi there! 👋 I'm a **Full Stack Engineer** with **5+ years** of experience in 
 ### 🎞️ Scivenia (EdTech SaaS Platform)
 
 **Tech Stack:** Laravel, Next.js, Node.js, GraphQL, Socket.IO, AWS, MySQL, Docker 
+
 **Description:**
 A SaaS platform for managing scientific events, workshops, and webinars. Enables tech communities to run large-scale interactive events with registration flows, payment integrations, and live engagement features. 
+
 **My Contributions:**
+
 * Working as Lead Engineer for the product
 * Architected new features and modules
 * Implemented GraphQL APIs and real-time messaging via Socket.IO
@@ -37,10 +40,13 @@ A SaaS platform for managing scientific events, workshops, and webinars. Enables
 
 ### 📡 Gem Monitor (IoT Monitoring Platform)
 
-**Tech Stack:** .NET Core, Vue.js, PostgreSQL, AWS, Docker
+**Tech Stack:** .NET Core, Vue.js, PostgreSQL, AWS, Docker 
+
 **Description:**
-IoT telemetry platform for monitoring industrial assets and vehicles. Ingests and processes telemetry data and displays analytics and alerts via custom dashboards.
+IoT telemetry platform for monitoring industrial assets and vehicles. Ingests and processes telemetry data and displays analytics and alerts via custom dashboards. 
+
 **My Contributions:**
+
 * Working as maintainer of the .net service
 * Built and maintained backend features in .NET Core for telemetry ingestion
 * Fixed real-time data processing bugs and handled DB reliability
@@ -50,9 +56,12 @@ IoT telemetry platform for monitoring industrial assets and vehicles. Ingests an
 ### 📊 Sapphire Portal (Enterprise Reporting Dashboard)
 
 **Tech Stack:** Symfony 3, Vue.js, PostgreSQL, AWS (ECS, RDS, S3), Docker
+
 **Description:**
-A corporate dashboard platform for managing internal operations and KPIs. Allows dynamic report generation, role-based access, and CRUD workflows.
+A corporate dashboard platform for managing internal operations and KPIs. Allows dynamic report generation, role-based access, and CRUD workflows. 
+
 **My Contributions:**
+
 * Working as maintainer of the Legacy system
 * Enhanced performance of legacy Symfony 3 codebase
 * Built new features modules 
@@ -62,10 +71,13 @@ A corporate dashboard platform for managing internal operations and KPIs. Allows
 
 ### 🔄 Proximus Synchronizer (Data Sync System)
 
-**Tech Stack:** Python, GCP (BigQuery, GCS, BigTable), Kubernetes
+**Tech Stack:** Python, GCP (BigQuery, GCS, BigTable), Kubernetes 
+
 **Description:**
-Internal tool for syncing Proximus SIM card activity data from telecom systems to cloud dashboards and reports.
+Internal tool for syncing Proximus SIM card activity data from telecom systems to cloud dashboards and reports. 
+
 **My Contributions:**
+
 * Created Python-based data migration and transformation scripts
 * Deployed serverless pipelines using GCP and Kubernetes
 * Built scheduled data sync and replay mechanisms for telemetry
@@ -74,10 +86,13 @@ Internal tool for syncing Proximus SIM card activity data from telecom systems t
 
 ### 🏠 Sarens ERP (Enterprise Resource Planning System)
 
-**Tech Stack:** .NET Core 8, Nuxt.js, PostgreSQL, Azure
+**Tech Stack:** .NET Core 8, Nuxt.js, PostgreSQL, Azure 
+
 **Description:**
-ERP system used by an international heavy lifting and logistics company to manage resources, staff, and operations.
+ERP system used by an international heavy lifting and logistics company to manage resources, staff, and operations. 
+
 **My Contributions:**
+
 * Developed multiple business modules
 * Collaborated on architecture design and DB schema
 * Worked with Azure-hosted services and PostgreSQL performance tuning
@@ -86,10 +101,13 @@ ERP system used by an international heavy lifting and logistics company to manag
 
 ### 🎵 Mubazar (SaaS, Music Tech)
 
-**Tech Stack:** Laravel, Next.js, Node.js, GraphQL, Socket.IO, AWS
+**Tech Stack:** Laravel, Next.js, Node.js, GraphQL, Socket.IO, AWS 
+
 **Description:**
-A platform for musicians to share gigs, collaborate, and communicate. Includes real-time forums, analytics, and chat.
+A platform for musicians to share gigs, collaborate, and communicate. Includes real-time forums, analytics, and chat. 
+
 **My Contributions:**
+
 * Built community features: chat, analytics dashboard, and content feed
 * Integrated GraphQL APIs and real-time messaging via Socket.IO
 * Managed cloud deployments and AWS infra
@@ -100,10 +118,13 @@ A platform for musicians to share gigs, collaborate, and communicate. Includes r
 
 ### 🎥 Adilo (SaaS, Video Hosting)
 
-**Tech Stack:** Laravel, Vue.js, AWS, MySQL
+**Tech Stack:** Laravel, Vue.js, AWS, MySQL 
+
 **Description:**
-A video hosting platform for creators and businesses, offering video storage, analytics, content protection, and integrations for monetization. Serves over 5,000 users.
+A video hosting platform for creators and businesses, offering video storage, analytics, content protection, and integrations for monetization. Serves over 5,000 users. 
+
 **My Contributions:**
+
 * Refactored core codebase for better scalability and performance
 * Integrated multiple payment systems(Paddle, FastSpring) and usage tracking mechanisms
 * Debuged the outage issues
@@ -115,9 +136,11 @@ A video hosting platform for creators and businesses, offering video storage, an
 
 ### 🎭 Stage.One CMS (Semi-CMS for Artists)
 
-**Tech Stack:** Laravel, Vue.js, Laravel Nova, Inertia.js, AWS
+**Tech Stack:** Laravel, Vue.js, Laravel Nova, Inertia.js, AWS 
+
 **Description:**
-Content management system for opera houses and performance venues to manage artists, events, and schedules.
+Content management system for opera houses and performance venues to manage artists, events, and schedules. 
+
 **My Contributions:**
 
 * Architected the whole platform
@@ -129,10 +152,13 @@ Content management system for opera houses and performance venues to manage arti
 
 ### 📰 CoolerAds (Multi-Tenant AdTech Platform)
 
-**Tech Stack:** Laravel, Vue.js, Livewire, MySQL
+**Tech Stack:** Laravel, Vue.js, Livewire, MySQL 
+
 **Description:**
-White-label ad campaign platform used by US local newspapers to manage and distribute digital ads.
+White-label ad campaign platform used by US local newspapers to manage and distribute digital ads. 
+
 **My Contributions:**
+
 * Led the development of white-lable multi-tenant system
 * Developed campaign scheduling, Twilio comms, and Facebook/Twitter posting
 * Built reusable Vue components and dashboards
@@ -144,10 +170,13 @@ White-label ad campaign platform used by US local newspapers to manage and distr
 
 ### 🏡 ZibaProperty (Real Estate Media Manager)
 
-**Tech Stack:** Laravel, Vue.js, MySQL, AWS
+**Tech Stack:** Laravel, Vue.js, MySQL, AWS 
+
 **Description:**
-Media management platform for real estate listings. Provides watermarking and image optimization.
-**My Contributions:**
+Media management platform for real estate listings. Provides watermarking and image optimization. 
+
+**My Contributions:** 
+
 * Added media versioning and automated image resizing
 * Implemented S3 integration and security policies
 * Helped refactor legacy logic for modern Laravel features
@@ -159,8 +188,10 @@ Media management platform for real estate listings. Provides watermarking and im
 ### 📊 Portfolio Manager (Finance Dashboard)
 
 **Tech Stack:** Laravel, Livewire, MySQL
+
 **Description:**
 Personal finance and real estate investment tracker. Users can log properties, returns, and market projections.
+
 **My Contributions:**
 * Architected the full project and implemented the full life cycle.
 * Designed DB and logic for ROI, cashflow, and net value reports
@@ -174,9 +205,12 @@ Personal finance and real estate investment tracker. Users can log properties, r
 ### 💳 Tattoo Admin (Artist Booking + Payments)
 
 **Tech Stack:** Nest.js, Next.js, PostgreSQL, Stripe, DigitalOcean, Docker
+
 **Description:**
 A SaaS product for tattoo artists to manage bookings, availability, and payments with real-time calendar sync.
+
 **My Contributions:**
+
 * Architected the initial project base
 * Built different modules with Nest.js and Next.js
 * Handled server infra on Digital ocean and handled deployments
@@ -186,9 +220,12 @@ A SaaS product for tattoo artists to manage bookings, availability, and payments
 ### 🏫 RealEstate School NJ (Online Course Booking)
 
 **Tech Stack:** Laravel, Square API, MySQL
+
 **Description:**
 An e-learning platform for real estate agents to book and attend accredited training courses online.
+
 **My Contributions:**
+
 * Built booking system
 * Integrated Square payment API and invoicing
 * Created custom admin dashboard and reporting tools
