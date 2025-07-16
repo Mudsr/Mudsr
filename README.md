@@ -19,90 +19,184 @@ Hi there! 👋 I'm a **Full Stack Engineer** with **5+ years** of experience in 
 
 ## 🚀 Featured Projects
 
-### 📦 Scivenia (SaaS, EdTech)  
-**Tech:** Laravel, Vue.js, Node.js, GraphQL, AWS, MySQL  
-A scientific event management platform used by 100+ organizations. Built real-time features and payment systems.  
+### 🎞️ Scivenia (EdTech SaaS Platform)
+
+**Tech Stack:** Laravel, Next.js, Node.js, GraphQL, Socket.IO, AWS, MySQL, Docker
+**Description:**
+A SaaS platform for managing scientific events, workshops, and webinars. Enables tech communities to run large-scale interactive events with registration flows, payment integrations, and live engagement features.
+**My Contributions:**
+* Working as Lead Engineer for the product
+* Architected new features and modules
+* Implemented GraphQL APIs and real-time messaging via Socket.IO
+* Managed AWS infra and CI/CD pipelines (Gitlab, ECS, EC2, S3, RDS)
+* Oversaw all development and product feature delivery
+
 🔗 [Live Site](https://scivenia.com)
 
 ---
 
-### 🎥 Adilo (SaaS, Video Hosting)  
-**Tech:** Laravel, Vue.js, AWS, MySQL  
-A video hosting platform for 5,000+ users. Optimized performance, integrated payment systems.  
-🔗 [Live Platform](https://adilo.bigcommand.com)
+### 📡 Gem Monitor (IoT Monitoring Platform)
+
+**Tech Stack:** .NET Core, Vue.js, PostgreSQL, AWS, Docker
+**Description:**
+IoT telemetry platform for monitoring industrial assets and vehicles. Ingests and processes telemetry data and displays analytics and alerts via custom dashboards.
+**My Contributions:**
+* Working as maintainer of the .net service
+* Built and maintained backend features in .NET Core for telemetry ingestion
+* Fixed real-time data processing bugs and handled DB reliability
 
 ---
 
-### 📡 Gem Monitor (IoT Monitoring)  
-**Tech:** .NET Core, Vue.js, PostgreSQL, AWS  
-Telemetry data ingestion and real-time IoT monitoring with alerts and reporting pipelines.
+### 📊 Sapphire Portal (Enterprise Reporting Dashboard)
+
+**Tech Stack:** Symfony 3, Vue.js, PostgreSQL, AWS (ECS, RDS, S3), Docker
+**Description:**
+A corporate dashboard platform for managing internal operations and KPIs. Allows dynamic report generation, role-based access, and CRUD workflows.
+**My Contributions:**
+* Working as maintainer of the Legacy system
+* Enhanced performance of legacy Symfony 3 codebase
+* Built new features modules 
+* Managed deployment on AWS ECS and RDS using Docker, Jenkins
 
 ---
 
-### 📊 Sapphire Portal (Reporting Dashboard)  
-**Tech Stack:** Symfony 3, Vue.js, PostgreSQL, AWS (ECS, RDS, S3), Docker  
-Custom reporting dashboard for operational data with complex filters and CRUD actions. Improved performance and expanded feature set.
+### 🔄 Proximus Synchronizer (Data Sync System)
+
+**Tech Stack:** Python, GCP (BigQuery, GCS, BigTable), Kubernetes
+**Description:**
+Internal tool for syncing Proximus SIM card activity data from telecom systems to cloud dashboards and reports.
+**My Contributions:**
+* Created Python-based data migration and transformation scripts
+* Deployed serverless pipelines using GCP and Kubernetes
+* Built scheduled data sync and replay mechanisms for telemetry
 
 ---
 
-### 🔄 Proximus Synchronizer (GCP + Python)  
-**Tech:** Python, GCP (BigQuery, GCS, BigTable), Kubernetes  
-GCP-native solution for syncing SIM data from Proximus with dashboards and reporting tools.
+### 🏠 Sarens ERP (Enterprise Resource Planning System)
+
+**Tech Stack:** .NET Core 8, Nuxt.js, PostgreSQL, Azure
+**Description:**
+ERP system used by an international heavy lifting and logistics company to manage resources, staff, and operations.
+**My Contributions:**
+* Developed multiple business modules
+* Collaborated on architecture design and DB schema
+* Worked with Azure-hosted services and PostgreSQL performance tuning
 
 ---
 
-### 🏗️ Sarens ERP (Enterprise ERP)  
-**Tech:** .NET Core 8, Nuxt.js, PostgreSQL, Azure  
-Enterprise resource modules for internal logistics, finance, and workforce operations.
+### 🎵 Mubazar (SaaS, Music Tech)
+
+**Tech Stack:** Laravel, Next.js, Node.js, GraphQL, Socket.IO, AWS
+**Description:**
+A platform for musicians to share gigs, collaborate, and communicate. Includes real-time forums, analytics, and chat.
+**My Contributions:**
+* Built community features: chat, analytics dashboard, and content feed
+* Integrated GraphQL APIs and real-time messaging via Socket.IO
+* Managed cloud deployments and AWS infra
+
+🔗 [Live Site (invite-only)](https://www.mubazar.com)
 
 ---
 
-### 🎵 Mubazar (SaaS, Music Tech)  
-**Tech Stack:** Laravel, Next.js, Node.js, Socket.IO, AWS  
-A community platform for musicians to share opportunities. Implemented forums, analytics, and real-time chat to support over 1,000 musicians.  
-🔗 [Live Platform (invite-only)](https://www.mubazar.com)
+### 🎥 Adilo (SaaS, Video Hosting)
+
+**Tech Stack:** Laravel, Vue.js, AWS, MySQL
+**Description:**
+A video hosting platform for creators and businesses, offering video storage, analytics, content protection, and integrations for monetization. Serves over 5,000 users.
+**My Contributions:**
+* Refactored core codebase for better scalability and performance
+* Integrated multiple payment systems(Paddle, FastSpring) and usage tracking mechanisms
+* Debuged the outage issues
+* Deployed and optimized infrastructure using AWS (EC2, S3, RDS)
+
+🔗 [Live Site](https://adilo.bigcommand.com)
 
 ---
 
-### 🎭 Stage.One CMS  
-**Tech:** Laravel, Vue.js, Inertia.js, AWS  
-Semi-CMS built for managing content, artist portfolios, and booking workflows for an opera company.
+### 🎭 Stage.One CMS (Semi-CMS for Artists)
+
+**Tech Stack:** Laravel, Vue.js, Laravel Nova, Inertia.js, AWS
+**Description:**
+Content management system for opera houses and performance venues to manage artists, events, and schedules.
+**My Contributions:**
+
+* Architected the whole platform
+* Built modular content blocks and custom CMS features in Laravel
+* Developed Inertia.js-based frontend for smooth UX
+* Set up EC2, RDS deployment with Laravel Forge
 
 ---
 
-### 📰 CoolerAds (Multi-Tenant AdTech)  
-**Tech:** Laravel, Vue.js, Livewire, MySQL  
-A white-label, multi-tenant advertising system for U.S. newspapers. Handled ad processing, API integrations, and scheduling.  
+### 📰 CoolerAds (Multi-Tenant AdTech Platform)
+
+**Tech Stack:** Laravel, Vue.js, Livewire, MySQL
+**Description:**
+White-label ad campaign platform used by US local newspapers to manage and distribute digital ads.
+**My Contributions:**
+* Led the development of white-lable multi-tenant system
+* Developed campaign scheduling, Twilio comms, and Facebook/Twitter posting
+* Built reusable Vue components and dashboards
+* Contributed to Livewire and multi-tenant architecture
+
 🔗 [Demo](https://mypaperonline.coolerads.com)
 
 ---
 
-### 🏘️ ZibaProperty (Real Estate Media)  
-**Tech:** Laravel  
-Image watermarking and media management for a real estate platform.
+### 🏡 ZibaProperty (Real Estate Media Manager)
+
+**Tech Stack:** Laravel, Vue.js, MySQL, AWS
+**Description:**
+Media management platform for real estate listings. Provides watermarking and image optimization.
+**My Contributions:**
+* Added media versioning and automated image resizing
+* Implemented S3 integration and security policies
+* Helped refactor legacy logic for modern Laravel features
+
 🔗 [Live Site](https://ziba-property.com/)
 
 ---
 
-### 📊 Portfolio Manager (Finance Tool)  
-**Tech:** Laravel, Livewire, MySQL  
-Track real estate investments, calculate ROI, and manage assets in one dashboard.
+### 📊 Portfolio Manager (Finance Dashboard)
+
+**Tech Stack:** Laravel, Livewire, MySQL
+**Description:**
+Personal finance and real estate investment tracker. Users can log properties, returns, and market projections.
+**My Contributions:**
+* Architected the full project and implemented the full life cycle.
+* Designed DB and logic for ROI, cashflow, and net value reports
+* Created export features and dashboard widgets
+* Built fully responsive UI with Livewire v2
+
 🔗 [Code](https://github.com/Mudsr/portfolio-system)
 
 ---
 
-### 💳 Tattoo Admin (Booking + Payments)  
-**Tech:** Nest.js, Next.js, PostgreSQL, Stripe  
-SaaS platform for tattoo artist scheduling and payments. Built secure real-time booking logic.
+### 💳 Tattoo Admin (Artist Booking + Payments)
+
+**Tech Stack:** Nest.js, Next.js, PostgreSQL, Stripe, DigitalOcean, Docker
+**Description:**
+A SaaS product for tattoo artists to manage bookings, availability, and payments with real-time calendar sync.
+**My Contributions:**
+* Architected the initial project base
+* Built different modules with Nest.js and Next.js
+* Handled server infra on Digital ocean and handled deployments
 
 ---
 
-### 🏫 RealEstate School NJ  
-**Tech:** Laravel, Square API  
-Built an online course booking system with secure payments and scheduling.
-🔗 [Live Site](njrealestateschoolonline.com)
+### 🏫 RealEstate School NJ (Online Course Booking)
+
+**Tech Stack:** Laravel, Square API, MySQL
+**Description:**
+An e-learning platform for real estate agents to book and attend accredited training courses online.
+**My Contributions:**
+* Built booking system
+* Integrated Square payment API and invoicing
+* Created custom admin dashboard and reporting tools
+
+🔗 [Live Site](https://njrealestateschoolonline.com)
 
 ---
+
 
 > 💡 *Want to see code? Ping me to see code samples.*
 ---
