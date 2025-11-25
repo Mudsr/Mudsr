@@ -1,33 +1,31 @@
 # 💻 About Me  
 
-Hi there! 👋 I'm a **Full Stack Engineer** with **5+ years** of experience in web and app development, delivering scalable and high-performance solutions across diverse domains like SaaS, EdTech, AdTech, Multi-Tenant and more.
+Hi there! 👋 I'm a **Full Stack Engineer** with **5+ years** of experience in web and app development, delivering scalable and high-performance solutions across diverse domains like SaaS, EdTech, AdTech, Multi-Tenant, IOT and for Custom Business needs.
 
 ## 🛠️ Tech Stack  
 
+### Languages
+Typescript, JavaScript, PHP, C#, Python
 ### Backend  
-PHP, Laravel, TypeScript, Node.js, NestJS, C#, .NET Core, Python, FastApi  
-
+Laravel, Node.js, NestJS, .NET Core, FastApi, Custom Data Piepleines & Automations
 ### Databases  
 MySQL, PostgreSQL, MongoDB, Redis  
-
 ### Cloud & DevOps  
-AWS, Google Cloud (GCP), Docker, Nginx, Laravel Forge, Linux  
-
+AWS, Google Cloud (GCP), Terraform, Docker, Kubernetes, Nginx, Linux
+### Architecture 
+Microservices, Multi-Tenant, SaaS, Event-Driven Systems, Monoliths
 ### Frontend  
 - **Frameworks & Libraries:** Vue.js, React.js, Next.js, Nuxt.js  
 - **UI & Styling:** Tailwind CSS, HTML, CSS, Material UI, Vuetify  
 - **Mobile:** React Native  
-- **Tools:** NPM, Figma  
- 
 
 ---
 
 ## 🌟 What I Do  
-✅ Develop **scalable** and **high-performance** web applications and services  
+✅ Develop **scalable** and **high-performance** Softwares, web applications and services  
 ✅ Build **SaaS, B2B, CRM, Multi-Tenant, ERP, EdTech, AdTech, IoT Ingestion, Custom Business** apps  
 ✅ Debug, optimize, and integrate APIs  
 ✅ Work with **event-driven systems & vertical slice architecture**  
-✅ **Arduino** Programming 
 
 ---
 
