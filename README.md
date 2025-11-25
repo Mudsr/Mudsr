@@ -7,7 +7,7 @@ Hi there! 👋 I'm a **Full Stack Engineer** with **5+ years** of experience in 
 ### Languages
 Typescript, JavaScript, PHP, C#, Python
 ### Backend  
-Laravel, Node.js, NestJS, .NET Core, FastApi, Custom Data Piepleines & Automations
+Laravel, Node.js, NestJS, .NET Core, FastApi, Custom Data Pipelines & Automations
 ### Databases  
 MySQL, PostgreSQL, MongoDB, Redis  
 ### Cloud & DevOps  
