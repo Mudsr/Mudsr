@@ -1,6 +1,6 @@
 # 💻 About Me  
 
-Hi there! 👋 I'm a **Full Stack Engineer** with **5+ years** of experience in web and custom software development, delivering scalable and high-performance solutions across diverse domains like SaaS, EdTech, AdTech, Multi-Tenant, IOT and for Custom Business needs.
+Hi there! 👋 I'm a **Full Stack Engineer** with **6 years** of experience in web and custom software development, delivering scalable and high-performance solutions across diverse domains like SaaS, EdTech, AdTech, Multi-Tenant, IOT and for Custom Business needs.
 
 ## 🛠️ Tech Stack  
 
